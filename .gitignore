@@ -1,0 +1,16 @@
+# Sensitive Authentication Tokens (Never commit)
+debug_token.txt
+*.token
+*.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
